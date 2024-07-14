@@ -1,6 +1,6 @@
 FROM quay.io/sampandey001/secktor
-RUN git clone https://github.com/GiftedTerry/Vibez-MD  /root/GiftedTerry/Vibez-MD 
-WORKDIR /root/Vibez-MD
+RUN git clone https://github.com/GiftedTerry/TECH-GOD-BUG-BOT  /root/GiftedTerry/TECH-GOD-BUG-BOT 
+WORKDIR /root/TECH-GOD-BUG-BOT 
 RUN npm install
 EXPOSE 8080
 CMD ["npm","start" ]
