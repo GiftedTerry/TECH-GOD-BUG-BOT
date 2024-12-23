@@ -29,7 +29,7 @@ global.themeemoji = '😈'
 global.wm = "Youtube GiftedHackers."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaiVmtX4Y9lpUssihA1x'
+global.link = 'https://whatsapp.com/channel/0029VaR2hFSFXUuYmxbRy83Q'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
