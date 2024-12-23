@@ -10,19 +10,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "233205796759"
-global.ownername = "King Gifted"
+global.ownernomer = "2349122128803"
+global.ownername = "Successful Terry💵🚬"
 global.ytname = "YT: GiftedHackers"
 global.socialm = "GitHub: GiftedTerry"
 global.location = "Africa, Lagos"
 
 global.ownernumber = '2347039853320'  //creator number
-global.ownername = 'King Gifted' //owner name
-global.botname = 'Gifted wa Crasher ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownername = 'Successful Terry✅💵🚬' //owner name
+global.botname = 'Succesful Terry✅💵🚬 ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'King-Gifted\n\nContact: +2347039853320'
+global.packname = 'Sticker by'
+global.author = 'SuccesfulTerry🚬\n\nContact: +2349122128803'
 
 //console view/theme
 global.themeemoji = '😈'
@@ -39,7 +39,7 @@ global.autoRecording = true //auto recording
 global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
 
